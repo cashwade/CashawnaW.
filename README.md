@@ -13,12 +13,12 @@ Let’s connect if you’re looking for someone who’s not afraid of hard work,
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SQL queries                  | <a href="https://docs.google.com/document/d/e/2PACX-1vQMV6K-yEhA3zqlig-oBcDafd8TlmjP8qqriMOHrNxSk3KhwVNbX5zPxoAyNDGmg29bI6V1fTOPeYTG/pub">SQL queries</a>|
-| Security Information and Event Management (SIEM) | <a href=""></a>|
+| SQL queries                                   | <a href="https://docs.google.com/document/d/e/2PACX-1vQMV6K-yEhA3zqlig-oBcDafd8TlmjP8qqriMOHrNxSk3KhwVNbX5zPxoAyNDGmg29bI6V1fTOPeYTG/pub">Apply filters to SQL queries</a>|
+| Automation                                    | <a href="https://drive.google.com/file/d/1-fFwrz2KzpbXyI-y5394i6Rov6HBBjoz/view?usp=sharing">Define and call a Funtion</a>|
 | Incident Response Planning and Execution      | <a href="https://docs.google.com/document/d/1mhanwFN_JbgwcgB980T04hJjMMRX-syJ/edit?usp=sharing&ouid=100260127790783810998&rtpof=true&sd=true">Incident report analysis</a>|
 | Coding and Scripting                          | <a href="https://drive.google.com/file/d/1QzBf565eN3pvPYE9uWTj8xdvC3KW7wM5/view?usp=sharing">Create a Conditional Statement</a>|
-| Security Controls                             | <a href="https://docs.google.com/document/d/14AytaYz4Hip54gyddXPkHHSDf_FSRyDlRXd5pnvpbjE/edit?usp=sharing">Controls and Compliance Checklist</a>|
-| Networking and System Administration          | <a href=""></a>|
+| Security Audit                                | <a href="https://docs.google.com/document/d/14AytaYz4Hip54gyddXPkHHSDf_FSRyDlRXd5pnvpbjE/edit?usp=sharing">Controls and Compliance Checklist</a>|
+| Visual communication                          | <a href="https://drive.google.com/file/d/19cFy1IavI2MieN2WtbzI5Fz7e5CNm2MI/view?usp=sharing">Wireshark vs TCPDump</a>|
 | Risk Management                               | <a href=""></a>|
 
 ## Tools
@@ -52,7 +52,9 @@ Let’s connect if you’re looking for someone who’s not afraid of hard work,
 
 ## Certifications
 <div>
-<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/DCNNQLS9D6EJ"><img src="https://img.shields.io/badge/-Coursera-0000FF?&style=for-the-badge&logo=Coursera&logoColor=white"></a></div>
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/DCNNQLS9D6EJ"><img src="https://img.shields.io/badge/-Cybersecurity-0000FF?&style=for-the-badge&logo=Coursera&logoColor=white"></a></div>
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/N2RXZT765HMZ"><img src="https://img.shields.io/badge/-Graphic Design-0000FF?&style=for-the-badge&logo=Coursera&logoColor=white"></a></div>
+
 
 ## Projects
 - <a href="https://drive.google.com/file/d/1ZgB0jplluWp_uqu72LLR_rMemA72iHyG/view?usp=sharing">Assign Python Variables</a>
@@ -69,3 +71,5 @@ Let’s connect if you’re looking for someone who’s not afraid of hard work,
 - <a href="https://drive.google.com/file/d/19cFy1IavI2MieN2WtbzI5Fz7e5CNm2MI/view?usp=sharing">Wireshark vs TCPDump</a>
 - <a href="https://docs.google.com/document/d/14LiMEilTtQIAOaEowPgU8_VaC6IAdvZxjxeTIu7_T-Y/edit?usp=sharing">Algorithm for file updates in Python</a>
 - <a href="https://docs.google.com/presentation/d/1QnhG7cHP05fjdP3knDbn2mYGOWQm0lcTF_BkGGPJ5x0/edit?usp=sharing">Pyramid of Pain</a>
+- <a href="https://drive.google.com/file/d/1iBvi5PbrTUDSUUPkd6aDz5PLzhJ_ysyV/view?usp=sharing">Work with strings in Python</a>
+ <a href=""></a>
