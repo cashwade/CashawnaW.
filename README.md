@@ -1,5 +1,5 @@
 # Hello and Welcome! I'm Cashawna,
-<a href="https://linkedin.com/in/cashawnawade"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> | <a href="mailto:cashwnawade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?&style=for-the-badge&logo=Gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/cashawnawade"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:cashwnawade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?&style=for-the-badge&logo=Gmail&logoColor=white"></a>
 
 Career-changer with 10+ years of experience as a professional chef, now pivoting into the tech and creative industries. Entry-level cybersecurity analyst with training in vulnerability management, SIEM tools, intrusion detection, and security best practices.
 
