@@ -19,7 +19,6 @@ Let’s connect if you’re looking for someone who’s not afraid of hard work,
 | Coding and Scripting                          | <a href="https://drive.google.com/file/d/1QzBf565eN3pvPYE9uWTj8xdvC3KW7wM5/view?usp=sharing">Create a Conditional Statement</a>|
 | Security Audit                                | <a href="https://docs.google.com/document/d/14AytaYz4Hip54gyddXPkHHSDf_FSRyDlRXd5pnvpbjE/edit?usp=sharing">Controls and Compliance Checklist</a>|
 | Visual communication                          | <a href="https://drive.google.com/file/d/19cFy1IavI2MieN2WtbzI5Fz7e5CNm2MI/view?usp=sharing">Wireshark vs TCPDump</a>|
-| Risk Management                               | <a href=""></a>|
 
 ## Tools
 
